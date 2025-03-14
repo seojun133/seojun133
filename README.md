@@ -1,5 +1,7 @@
-<!-- 헤더 (네온 스타일) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=200&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=00FF00" />
+<!-- 헤더 (네온 사인 + 애니메이션) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=200&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=00FF00" class="neon-glow" />
+</div>
 
 <!-- GitHub 통계 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojun133&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,11 +22,25 @@
 
 ---
 
-<!-- 푸터 (네온 스타일 + 폭죽 애니메이션) -->
+### 📢 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-zxzcs_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+---
+
+<!-- 푸터 (네온 사인 + 애니메이션) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontColor=00FF00" />
-  <br>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l4KihuqeuJEi3TzWc/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontColor=00FF00" class="neon-glow" />
 </div>
+
+<!-- CSS 애니메이션 적용 -->
+<style>
+  .neon-glow {
+    animation: neon-flicker 1.5s infinite alternate;
+  }
+
+  @keyframes neon-flicker {
+    0% { filter: drop-shadow(0 0 5px #00ff00); }
+    50% { filter: drop-shadow(0 0 15px #00ff00); }
+    100% { filter: drop-shadow(0 0 5px #00ff00); }
+  }
+</style>
