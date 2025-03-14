@@ -23,7 +23,7 @@
 ---
 
 ### 📢 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-zxzcs_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/Discord-zxzcs__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 ---
 
