@@ -1,7 +1,5 @@
-<!-- 헤더 (언더라인 스타일) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=underline&color=000000&height=100&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=000000" />
-</div>
+<!-- 헤더 (Markdown 방식) -->
+![Header](https://capsule-render.vercel.app/api?type=underline&color=000000&height=100&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=000000)
 
 <!-- GitHub 통계 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojun133&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
