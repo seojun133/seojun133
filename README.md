@@ -1,6 +1,6 @@
-<!-- 헤더 (네온 사인 + 애니메이션) -->
+<!-- 헤더 (네온 깜빡이는 GIF) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=200&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=00FF00" class="neon-glow" />
+  <img src="네온_헤더_GIF_URL" width="100%" />
 </div>
 
 <!-- GitHub 통계 -->
@@ -22,25 +22,13 @@
 
 ---
 
-### 📢 Connect with Me
-[![Discord](https://img.shields.io/badge/Discord-zxzcs__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+### 🖥️ Development Tools
+
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<!-- 푸터 (네온 사인 + 애니메이션) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontColor=00FF00" class="neon-glow" />
-</div>
-
-<!-- CSS 애니메이션 적용 -->
-<style>
-  .neon-glow {
-    animation: neon-flicker 1.5s infinite alternate;
-  }
-
-  @keyframes neon-flicker {
-    0% { filter: drop-shadow(0 0 5px #00ff00); }
-    50% { filter: drop-shadow(0 0 15px #00ff00); }
-    100% { filter: drop-shadow(0 0 5px #00ff00); }
-  }
-</style>
+### 📢 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-zxzcs_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
