@@ -1,6 +1,6 @@
-<!-- 헤더 (네온 깜빡이는 GIF) -->
+<!-- 헤더 (언더라인 스타일) -->
 <div align="center">
-  <img src="네온_헤더_GIF_URL" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=underline&color=000000&height=100&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=000000" />
 </div>
 
 <!-- GitHub 통계 -->
