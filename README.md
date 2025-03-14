@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=ffffff)
-
+![Header](https://capsule-render.vercel.app/api?type=rect&color=101010&height=200&section=header&text=Welcome%20to%20Seojun's%20GitHub&fontSize=35&fontColor=00FFFF)
 <!-- GitHub 통계 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojun133&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
